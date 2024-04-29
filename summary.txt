@@ -1,0 +1,186 @@
+- Anomalies were detected in the CPU usage data over the last 1 months.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 2 months.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 6 months.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 1 weeks.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 2 weeks.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 3 weeks.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 1 days.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 2 days.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 5 days.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 1 hours.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 3 hours.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 6 hours.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 12 hours.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- No anomalies were detected in the CPU usage data over the last 10 minutes.
+- No anomalies were detected in the CPU usage data over the last 20 minutes.
+- No anomalies were detected in the CPU usage data over the last 30 minutes.
+- Anomalies were detected in the CPU usage data over the last 1 months.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 2 months.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 6 months.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 1 weeks.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 2 weeks.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 3 weeks.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 1 days.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 2 days.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 5 days.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 1 hours.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 3 hours.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 6 hours.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- Anomalies were detected in the CPU usage data over the last 12 hours.
+- The top 5 CPU usage spiked at the following timestamps with cpu_usage_percentage:
+ - 2024-04-07 21:17:00 : 86.79.
+ - 2024-04-07 22:13:00 : 117.7.
+ - 2024-04-07 22:15:00 : 75.91.
+ - 2024-04-07 22:24:00 : 115.31.
+ - 2024-04-07 23:27:00 : 141.14.
+- No anomalies were detected in the CPU usage data over the last 10 minutes.
+- No anomalies were detected in the CPU usage data over the last 20 minutes.
+- No anomalies were detected in the CPU usage data over the last 30 minutes.
+- Forecast Summary : 
+- The CPU usage percentage is forecasted to be as follows:
+ - 2024-04-08 00:01:00 : 17.94582376228947
+ - 2024-04-08 00:02:00 : 12.807830046389974
+ - 2024-04-08 00:03:00 : 13.659535176191174
+ - 2024-04-08 00:04:00 : 2.6041056071429196
